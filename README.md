@@ -1,3 +1,29 @@
+# This is a showcase of a netflix clone i made:
+
+### `Opeaning Page`
+
+<img src = "ScreenShots/EmailPage.JPG">
+
+### `Login Page`
+
+<img src = "ScreenShots/login.JPG">
+
+Login Page provided with full email authentication from firebase with login and signup options for new users
+
+### `Home Page`
+
+<img src = "ScreenShots/home.JPG">
+<h2> These are some screenshots of the home page.
+<img src = "ScreenShots/home2.JPG">
+<h2> The information gets updated each time u refresh
+<img src = "ScreenShots/home3.JPG">
+<h2> All data is taken using the TMDB API
+
+### `Categories`
+<h2>Movies and shows from all different categories can be found
+
+<img src = "ScreenShots/categories.JPG">
+
 # Getting Started with Create React App and Redux
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
